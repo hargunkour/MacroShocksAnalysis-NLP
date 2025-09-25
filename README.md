@@ -6,7 +6,9 @@ Central banks communicate through official statements and minutes that significa
 - Identify and clean economic terminology using domain-specific corrections  
 - Apply **Loughran–McDonald financial sentiment dictionary** for accurate sentiment classification  
 - Compute n-gram level sentiment (unigrams, bigrams, trigrams)  
-- Visualize sentiment trends alongside macroeconomic shocks (e.g., recessions)  
+- Visualize sentiment trends alongside macroeconomic shocks (e.g., recessions)
+  
+![](example_output.png)
 
 ---
 
@@ -58,6 +60,7 @@ MacroShocksAnalysis-NLP/
 │── LoughranMcDonald.csv # Master dictionary
 │── MacroShocks_NLP.ipynb # Main Jupyter Notebook
 │── sentiment_scores.xlsx # Example output file
+│── example_output.png # Example output plot png
 │── README.md # Project documentation
 ```
 **Note:** Not all raw PDF files are not uploaded due to size and licensing constraints.
