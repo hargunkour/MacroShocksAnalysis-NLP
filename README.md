@@ -100,6 +100,7 @@ Results will be saved as:
 # Why this project and future improvements
 By quantifying the tone of FOMC communication, this project helps researchers and analysts understand how central bank narratives evolve across macroeconomic shocks.
 To further improve this project:
+- Enlarge the dataset with up-to-date FOMC docs
 - Optimise fully to cut down preproceesing time for handling larger documents sets.
 - Incorporate machine learning classifiers for predictive tasks for incoming years.
 - Expand analysis to other central banks (ECB, BoE, etc.)  
